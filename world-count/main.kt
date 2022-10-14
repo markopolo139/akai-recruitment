@@ -24,4 +24,5 @@ fun main() {
         
 
     map.forEach { println("${it.key} - ${it.value}") }
+
 }
